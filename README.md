@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/C#-239120?style=flat-square&logo=C Sharp&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/C Sharp-239120?style=flat-square&logo=C Sharp&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CS2-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/></a></p>
 
 <h3 align="center"><b>ME</b></h3>
