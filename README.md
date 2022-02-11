@@ -15,11 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 🌱
-
-
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
-</br>
+
 <h2 align="center"><b>Techs that I've used at least once or once</b></h2>
 </br>
 <p align="center">
