@@ -41,4 +41,4 @@
 <h4 align="center">Android, DevOps Engineer gogo 👍👍</h4>
 
 
-![ByeongJunis's github stats]<p align="center">(https://github-readme-stats.vercel.app/api?username=ByeongJunis&show_icons=true)</p>
+![ByeongJunis's github stats](https://github-readme-stats.vercel.app/api?username=ByeongJunis&show_icons=true)
