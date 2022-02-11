@@ -1,4 +1,4 @@
-### <align="Center"><b> Welcome</b> 👋
+<h3 align="Center"><b> Welcome 👋</b></h3> 
 
 <!--
 **ByeongJunis/ByeongJunis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
