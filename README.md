@@ -1,6 +1,5 @@
 <p align="Center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:fccb90,100:a82cd4&height=300&text=Welcome 👋&animation=twinkling&fontColor=2575fc&fontSize=100"  alt="waving"   style="max-width: 100%;"></p>
 
-<br>
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 <h4 align="center"><b>Techs that I've used at least once or once</b></h4>
 <p align="center">
