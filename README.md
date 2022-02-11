@@ -1,4 +1,4 @@
-<h4 align="Center"><b> Welcome 👋</b></h4> 
+<h2 align="Center"><b> Welcome 👋</b></h2> 
 
 <!--
 **ByeongJunis/ByeongJunis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <br></br>
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 
-<h1 align="center"><b>Techs that I've used at least once or once</b></h1>
+<h4 align="center"><b>Techs that I've used at least once or once</b></h4>
 <br></br>
 <p align="center">
   <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a> &nbsp
@@ -44,10 +44,10 @@ Here are some ideas to get you started:
 <br></br>
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 
-<h1 align="center"><b>Techs that I've used at least once or once</b></h1>
+<h4 align="center"><b>Techs that I've used at least once or once</b></h4>
 
-<h3 align="center"><b>ME</b></h3>
+<h3 align="center"><b>ME</b></h3><p align="center">
 <a href="https://jun.oopy.io/" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 <a href="mailto:guqudjun12@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="mailto:guqudjun11@naver.com" target="_blank"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
-<a href="https://velog.io/@junis" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+<a href="https://velog.io/@junis" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a></p>
