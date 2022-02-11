@@ -18,10 +18,6 @@ Here are some ideas to get you started:
 ### 🌱
 
 
-<a href="https://velog.io/@junis" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
-
-
-
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
 <h2 align="center"><b>Techs that I've used at least once or once</b></h2>
@@ -45,14 +41,11 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=C Sharp&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CS2-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/></a></p>
 
-<h3 align="center"><b>ME</b></h3>
-
-
 
 <h3 align="center"><b>ME</b></h3>
 <a href="https://jun.oopy.io/" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 <a href="mailto:guqudjun12@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="mailto:guqudjun11@naver.com" target="_blank"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
-
+<a href="https://velog.io/@junis" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 
 Techs that I want to try at one
