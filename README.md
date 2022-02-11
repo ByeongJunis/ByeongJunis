@@ -38,7 +38,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/CS2-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/></a></p>
+<img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/></a></p>
 <br>
 <h3 align="center"><b>🌱 Tech Stack 🌱</b></h3>
 <h4 align="center"><b>Techs that I want to try at one</b></h4><p align="center">
