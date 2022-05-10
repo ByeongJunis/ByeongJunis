@@ -38,4 +38,15 @@
 <a href="mailto:guqudjun11@naver.com" target="_blank"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
 </p>
 <br>
-<h4 align="center">Android, DevOps Engineer gogo 👍👍</h4>
+<h3 align="center"><b>🏆 Stats 🏆</b></h3>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=ByeongJunis">
+<table><tr><td valign="top" width="40%" >
+<img src="https://github-readme-stats.vercel.app/api?username=ByeongJunis&show_icons=true&theme=radical" align="left" style="width: 100%" />
+</td><td valign="top" width="35%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByeongJunis&hide_border=true&layout=compact" align="left" style="width: 90%" />
+</td></tr></table> 
+
+
+<br>
+<h4 align="center">Android, DevOps Engineer gogo 👍👍</h4> 
+<p align="center"><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FByeongJunis&count_bg=%232125CF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a></p>
