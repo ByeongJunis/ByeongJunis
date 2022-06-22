@@ -19,7 +19,7 @@
 <br>
 <br>
 <h3 align="center"><b>😄 ME 😄</b></h3><p align="center">
-<a href="https://jun.oopy.io/" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>&nbsp
+<a href="https://url.kr/gkr4ul" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>&nbsp
   <a href="https://velog.io/@junis" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>&nbsp
 <a href="mailto:guqudjun12@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp
 <a href="mailto:guqudjun11@naver.com" target="_blank"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
