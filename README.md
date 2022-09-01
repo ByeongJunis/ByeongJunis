@@ -1,4 +1,4 @@
-<p align="Center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:fccb90,100:a82cd4&height=300&text=Welcome 👋&animation=twinkling&fontColor=2575fc&fontSize=100"  alt="waving"   style="max-width: 100%;"></p>
+<p align="Center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:fccb90,100:a82cd4&height=300&text=Welcome&animation=twinkling&fontColor=2575fc&fontSize=100"  alt="waving"   style="max-width: 100%;"></p>
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 <p align="center">
